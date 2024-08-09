@@ -1,4 +1,4 @@
-#Para rodar
+*Para rodar* \
 npm i\
 criar pasta dist vazia na raiz do projeto\
 npx tsc (para gerar os .js dentro do dist) \
